@@ -9,8 +9,8 @@ Todo App foi desenvolvido para resolução do desafio da trilha de React Native 
 
 # 🎨 Layout
 <div>
-    <img src="./.github/screenshot1.png" style="margin-right: 8px; border-radius: 8px" width="35%"/>
-    <img src="./.github/screenshot2.png" style="border-radius: 8px" width="35%"/>    
+    <img src="./.github/screenshot1.PNG" style="margin-right: 8px; border-radius: 8px" width="35%"/>
+    <img src="./.github/screenshot2.PNG" style="border-radius: 8px" width="35%"/> 
 <div>
 
 # 🔨 Tecnologias utilizadas
