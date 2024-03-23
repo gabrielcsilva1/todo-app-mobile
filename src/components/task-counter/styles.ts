@@ -13,12 +13,14 @@ export const styles = StyleSheet.create({
         marginRight: 8,
     },
 
-    counter: {
+    counterView: {
         backgroundColor: colors.gray[400],
         borderRadius: 999,
         paddingHorizontal: 8,
         paddingVertical: 2,
+    },
 
+    counter: {
         fontFamily: font.bold,
         fontSize: font.size.xs,
         color: colors.gray[200]

@@ -11,7 +11,9 @@ export function TaskCounter({label, counter, color}: TaskCounterProps){
     return (
         <View style={styles.container}>
             <Text style={[styles.label, {color}]}>{label}</Text>
-            <Text style={styles.counter}>{counter}</Text>
+            <View style={styles.counterView}>
+                <Text style={styles.counter}>{counter}</Text>
+            </View>
         </View>
         )
 }
